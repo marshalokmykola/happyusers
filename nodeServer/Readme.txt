@@ -1,0 +1,1 @@
+ SET PATH=D:\mamy1009\node-v10.15.1-win-x64;%PATH%
